@@ -1,9 +1,0 @@
-﻿<?xml version="1.0"?>
-<TestScriptConfig>
-	<test TestId="TpsmsTest" Browsers = "FireFox"/>	
-	<actions>
-		<action type="Url" value="http://www.tamilnadutourism.org/Temples/Templesmain.aspx"></action>
-		<action type="Default" name="select1_titletext" ></action>
-		<action type="Default" name="select1_msa_2" ></action>
-	</actions>
-</TestScriptConfig>
