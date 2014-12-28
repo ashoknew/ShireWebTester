@@ -40,6 +40,9 @@
     <Reference Include="WebDriver">
       <HintPath>..\ShireWebtester\Library\WebDriver.dll</HintPath>
     </Reference>
+    <Reference Include="WebDriver.Support">
+      <HintPath>..\ShireWebtester\Library\WebDriver.Support.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="XmlConfigReader.cs" />
