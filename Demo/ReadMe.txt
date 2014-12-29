@@ -3,7 +3,7 @@ ShreWebTester 1.0
 This package contains the ShreWebTester binaries. 
 
 To execute, run "ShireWebTestRunner.exe".  'YahooXMLtest.xml' test script shall be 
-executed by software and create screen shot in the same location.
+executed by software and create screen shot for the same.
 
-Send feedback to mashok.sai@gmail.com.
+Please send your valuable comments and feedback to mashok.sai@gmail.com.
 
